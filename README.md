@@ -1,8 +1,25 @@
 # FULLSTACK WEB APPLICATION WORKSHOP
 
 
-##  TECHNOLOGIES:
+## CLONE REPO:
+```sh
+git clone https://github.com/puneethkumar-v/mern-workshop-tutorial.git
+cd mern-workshop-tutorial
+```
 
+## Start Frontend:
+```sh
+cd frontend
+npm run dev
+```
+
+## Start Backend:
+```sh
+cd backend
+npm start
+```
+
+##  TECHNOLOGIES:
 - FRONTEND:
     - REACT
     - MATERIAL UI
@@ -15,6 +32,7 @@
 ## TASKS:
 
 - [x] Create Two Project Folders:
+
 
   - [x] backend
     - [x] create a package.json file using@mui/icons-material
